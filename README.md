@@ -1,4 +1,4 @@
-# 🖐️ # Hand Gesture Recognition Website
+# 🖐️ Hand Gesture Recognition Website
 
 ---
 
