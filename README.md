@@ -110,4 +110,4 @@ This project is open source and free to use under the [MIT License](LICENSE).
 AbdElRahman Hesham
 Made with ❤️ using Python, MediaPipe, Flask, and OpenCV.
 
-Portfolio: [abdelrahmanz.netlify.app](https://abdelrahmanz.netlify.app)
+Website: [abdelrahmanz.netlify.app](https://abdelrahmanz.netlify.app)
