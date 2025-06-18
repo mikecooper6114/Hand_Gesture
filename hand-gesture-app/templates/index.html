@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hand Gesture App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+  <h1>🖐️ Hand Gesture Recognition</h1>
+  <div id="video-container">
+    <img id="video-stream" src="{{ url_for('video') }}" />
+  </div>
+</body>
+</html>
